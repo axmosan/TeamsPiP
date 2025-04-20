@@ -35,6 +35,12 @@ Teams会議を開始した時、・・・や画面を右クリックしたとき
 このこのExtensionの動作で`v.removeAttribute('disablePictureInPicture');`でTeamsの`<video>`要素から`disablePictureInPicture`を取り除いています。
 
 
+# おまけ
+Teamsのみに機能を限定するのを忘れていたのでYouTubeでもXでも動画再生中にTeamsPiPアイコンをクリックするとPiPしてしまいます。
+
+いつでもPiPできてお得なので残しておきます。
+
+
 # 免責条項
 この拡張機能は、Microsoft Teams（Web版）での利便性を向上させる目的で作成された非公式のChrome拡張機能です。
 
