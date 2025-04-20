@@ -1,5 +1,6 @@
 # TeamsPiP
 Microsoft TeamsでPicture in Pictureを可能にするChrome拡張機能です。
+
 通話相手がカメラか画面共有を行った際にPiPを行うことができます。
 
 
